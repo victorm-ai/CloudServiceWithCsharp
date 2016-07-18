@@ -1,5 +1,5 @@
 # Overview - Cloud service with C sharp
-This code will help you to deploy cloud services in Microsoft Azure using C# .Net (create service, upload service, deploy service, delete service)
+This code will help you to deploy cloud services in Microsoft Azure using C# .Net (create service, upload service, deploy service, delete service).
 
 # About the project
 
