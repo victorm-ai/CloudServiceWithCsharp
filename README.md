@@ -20,4 +20,4 @@ The MAML (Microsoft Azure Manage Libraries) let us to manage resources of Micros
 
 # Additional information
 
-if you can see how was created this project, you can do click on this link: http://bit.ly/2jNu28m
+If you can see how was created this project, you can do click on this link: http://bit.ly/2jNu28m
